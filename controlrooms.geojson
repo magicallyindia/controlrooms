@@ -1,0 +1,1000 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Andhra Pradesh",
+        "LIST OF Collection Centers": "Sri Venkateswara Institute of Medical Sciences, Tirupati",
+        "Address": "Alipiri Rd, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh 517507",
+        "Phone number": "0877 228 7777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4010801080108,
+          13.600696069606961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Andhra Pradesh",
+        "LIST OF Collection Centers": "Rangaraya Medical College, Kakinada",
+        "Address": "Pithampuram Road, Kakinada, Andhra Pradesh 533001",
+        "Phone number": "0884 236 3401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2001200120012,
+          17.00061806180618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Andhra Pradesh",
+        "LIST OF Collection Centers": "Sidhartha Medical College, Vijayawada",
+        "Address": "NH 16 Service Rd, beside Dr NTR University of Health Sciences, Gunadala, Vijayawada, Andhra Pradesh 520008",
+        "Phone number": "0866 245 0390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7009900990099,
+          16.499199919992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Andhra Pradesh",
+        "LIST OF Collection Centers": "GMC, Anantapur",
+        "Address": "Rahamat Nagar, Anantapur, Andhra Pradesh 515001",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.60063006300629,
+          14.700746074607462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Andaman & Nicobar islands",
+        "LIST OF Collection Centers": "Regional Medical Research Centre, Port Blair, Andaman and Nicobar",
+        "Address": "Post Bag 13, Dollygunj, Port Blair, Andaman and Nicobar Islands 744103",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.69900990099009,
+          11.6001400140014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Assam",
+        "LIST OF Collection Centers": "Gauhati Medical College, Guwahati",
+        "Address": "Narakasur Hilltop, Bhangagarh, Guwahati, Assam 781032",
+        "Phone number": "0361 213 2751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8000300030003,
+          26.20010601060106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Assam",
+        "LIST OF Collection Centers": "Regional Medical Research Center, Dibrugarh",
+        "Address": "Bokul, Lahowal, Dibrugarh, Assam, Assam 786001",
+        "Phone number": "0373 238 1494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95,
+          27.499699969997003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Assam",
+        "LIST OF Collection Centers": "Silchar Medical College, Silchar",
+        "Address": "Ghungoor Road, beside Indian Post, Masimpur, Uttar Krishnapur Pt III, Assam 788014",
+        "Phone number": "03842 229 110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8011101110111,
+          24.800740074007404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Assam",
+        "LIST OF Collection Centers": "Jorhat Medical College, Jorhat",
+        "Address": "Kushal Konwar Path, Barbheta, Jorhat, Assam 785001",
+        "Phone number": "0376 237 0107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2006300630063,
+          26.698965896589662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Bihar",
+        "LIST OF Collection Centers": "Rajendra Memorial Research Institute of Medical Sciences, Patna",
+        "Address": "Sadikpur, Patna, Bihar 800007",
+        "Phone number": "0612 263 6651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2008700870087,
+          25.59891589158916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Chandigarh",
+        "LIST OF Collection Centers": "Post Graduate Institute of Medical Education & Research, Chandigarh",
+        "Address": "Madhya Marg, Sector 12, Chandigarh, 160012",
+        "Phone number": "0172 274 7585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.79876987698769,
+          30.799849984998502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Chhattisgarh",
+        "LIST OF Collection Centers": "All India Institute Medical Sciences, Raipur",
+        "Address": "Great Eastern Rd, AIIMS Campus, Tatibandh, Raipur, Chhattisgarh 492099",
+        "Phone number": "077125 72240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.59996999699969,
+          21.301046104610464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Delhi-NCT",
+        "LIST OF Collection Centers": "All India Institute Medical Sciences, Delhi",
+        "Address": "Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029",
+        "Phone number": "011 2658 8500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.199699969997,
+          28.5997499749975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Gujarat",
+        "LIST OF Collection Centers": "BJ Medical College, Ahmedabad",
+        "Address": "B j medical college, Asarwa, Gujarat 380016",
+        "Phone number": "079 2268 0074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6002100210021,
+          23.099499949995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Gujarat",
+        "LIST OF Collection Centers": "M.P.Shah Government Medical College, Jamnagar",
+        "Address": "Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361008",
+        "Phone number": "0288 255 3515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1,
+          22.500868086808683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Haryana",
+        "LIST OF Collection Centers": "Pt. B.D. Sharma Post Graduate Inst. of Med. Sciences, Rohtak, Haryana",
+        "Address": "Medical Rd, Rohtak, Haryana 124001",
+        "Phone number": "01262 281 307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5995499549955,
+          28.89906590659066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Haryana",
+        "LIST OF Collection Centers": "BPS Govt Medical College, Sonipat",
+        "Address": "Ganaur - Gohana Rd, Khanpur Kalan, Haryana 131305",
+        "Phone number": "01263 283 025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.79876987698769,
+          29.200940094009404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Himachal pradesh",
+        "LIST OF Collection Centers": "Indira Gandhi Medical College, Shimla, Himachal Pradesh",
+        "Address": "Ridge Sanjauli Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+        "Phone number": "0177 265 4713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.199699969997,
+          31.099165916591662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Himachal pradesh",
+        "LIST OF Collection Centers": "Dr.Rajendra Prasad Govt. Med. College, Kangra, Tanda, HP",
+        "Address": "Tanda Hospital Rd, Kangra, Himachal Pradesh 176001",
+        "Phone number": "0189 226 7115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3007200720072,
+          32.099443944394444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Jammu and Kashmir",
+        "LIST OF Collection Centers": "Sher-e- Kashmir Institute of Medical Sciences, Srinagar",
+        "Address": "SKIMS Main Rd, Soura, Srinagar, 190011",
+        "Phone number": "0194 240 1013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.799099909991,
+          34.10000000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Jammu and Kashmir",
+        "LIST OF Collection Centers": "Government Medical College, Srinagar",
+        "Address": "Jammu and Kashmir, Bemina, Srinagar, 190010",
+        "Phone number": "0194 245 3114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.799099909991,
+          34.10000000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Jharkhand",
+        "LIST OF Collection Centers": "MGM Medical College, Jamshedpur",
+        "Address": "Dimna Rd, Hill View Colony, Mango, Jamshedpur, Jharkhand 831020",
+        "Phone number": "0657 236 0859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.19945994599459,
+          22.800184018401843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Karnataka",
+        "LIST OF Collection Centers": "Bangalore Medical College & Research Institute, Bangalore",
+        "Address": "Fort, Krishna Rajendra Rd, Bengaluru, Karnataka 560002",
+        "Phone number": "080 2670 1529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.60063006300629,
+          12.99950595059506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Karnataka",
+        "LIST OF Collection Centers": "National Institute of Virology Field Unit Bangalore",
+        "Address": "Jaya Nagar 1st Block, Jayanagar, Bengaluru, Karnataka 560011",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.60063006300629,
+          12.899733973397339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Karnataka",
+        "LIST OF Collection Centers": "Mysore Medical College & Research Institute, Mysore",
+        "Address": "Irwin Road, next to Railway Staion, Mysuru, Karnataka 570001",
+        "Phone number": "0821 252 0512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5995499549955,
+          12.301102110211021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Karnataka",
+        "LIST OF Collection Centers": "Hassan Inst. of Med. Sciences, Hassan, Karnataka",
+        "Address": "Shri panchamukhi medicals and clinic, opp. govt high school, Hassan, Karnataka 573201",
+        "Phone number": "081722 31699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0990099009901,
+          12.99950595059506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Karnataka",
+        "LIST OF Collection Centers": "Shimoga Inst. of Med. Sciences, Shivamogga, Karnataka",
+        "Address": "Sagar Road, Shivamogga, Karnataka 577201",
+        "Phone number": "081822 29933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6009600960096,
+          13.900012001200121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Kerala",
+        "LIST OF Collection Centers": "National Institute of Virology Field Unit, Kerala",
+        "Address": "Vandanam, Kerala 688005",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.20111011101109,
+          9.04955895589559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Kerala",
+        "LIST OF Collection Centers": "Govt. Medical College, Thriuvananthapuram, Kerala",
+        "Address": "Ulloor - Akkulam Rd, near SAT hospital Medical College Junction, Chalakkuzhi, Thiruvananthapuram, Kerala 695011",
+        "Phone number": "0471 252 8300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9008700870087,
+          8.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Kerala",
+        "LIST OF Collection Centers": "Govt. Medical College, Kozhikhode, Kerala",
+        "Address": "17 Medical College Road Medical College Junction, Near Police Station, Kozhikode, Kerala 673008",
+        "Phone number": "0495 235 0216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8001800180018,
+          11.30082408240824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Kerala",
+        "LIST OF Collection Centers": "Govt. Medical College, Thrissur",
+        "Address": "M. G. Kavu, Thrissur, Kerala 680596",
+        "Phone number": "0487 220 0310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.20111011101109,
+          10.59986198619862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#be723f",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "State/UT": "Madhya Pradesh",
+        "LIST OF Collection Centers": "All India Institute Medical Sciences, Bhopal",
+        "Address": "Saket Nagar, AIIMS Campus, Saket Nagar, Bagh Swaniya, Bhopal, Madhya Pradesh 462020",
+        "Phone number": "0755 267 2322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5010201020102,
+          23.19927192719272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Madhya Pradesh",
+        "LIST OF Collection Centers": "National Institute of Research in Tribal Health (NIRTH), Jabalpur",
+        "Address": "Nagpur Road, near NSCB Medical Collage, Dhanvantri Nagar, Shastri Nagar, Jabalpur, Madhya Pradesh 482003",
+        "Phone number": "076123 70800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8991299129913,
+          23.099499949995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Meghalaya",
+        "LIST OF Collection Centers": "NEIGRI of Health and Medical Sciences, Shillong, Meghalaya",
+        "Address": "Department of Radiology & Imaging, NEIGRIHMS, Shillong, Meghalaya 793018",
+        "Phone number": "0364 253 8013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.89963996399639,
+          25.59891589158916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Maharashtra",
+        "LIST OF Collection Centers": "Indira Gandhi Government Medical College, Nagpur",
+        "Address": "Mayo Hospital, Central Ave, Mominpura, Nagpur, Maharashtra 440018",
+        "Phone number": "0712 272 5423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0997599759976,
+          21.201274127412745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Maharashtra",
+        "LIST OF Collection Centers": "Kasturba Hospital for Infectious Diseases, Mumbai",
+        "Address": "Sane Guruji Marg, Arya Nagar, Chinchpokli, Mumbai, Maharashtra 400034",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.69981998199819,
+          19.100946094609462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Maharashtra",
+        "LIST OF Collection Centers": "NIV Mumbai Unit",
+        "Address": "13th floor, New Multistoreyed Building, KEM Hospital Campus, Parel, Mumbai, Maharashtra 400012",
+        "Phone number": "022 2413 8518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00048004800479,
+          21.899677967796784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Manipur",
+        "LIST OF Collection Centers": "J N Inst. of Med. Sciences Hospital, Imphal-East, Manipur",
+        "Address": "Porompat, Imphal, Manipur 795004",
+        "Phone number": "0385 244 3144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9989198919892,
+          24.800740074007404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Manipur",
+        "LIST OF Collection Centers": "Regional Institute of Medical Sciences, Imphal",
+        "Address": "Lamphel Road, Lamphelpat, Imphal, Manipur 795004",
+        "Phone number": "0385 241 1484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8993099309931,
+          24.800740074007404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Odisha",
+        "LIST OF Collection Centers": "Regional Medical Research Center, Bhubaneswar",
+        "Address": "NALCO Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751023",
+        "Phone number": "0674 230 1322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8010201020102,
+          20.30076807680768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Puducherry",
+        "LIST OF Collection Centers": "Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry",
+        "Address": "Jipmer Campus Rd, Gorimedu, Dhanvantari Nagar, Puducherry, 605006",
+        "Phone number": "0413 227 1301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7995199519952,
+          11.99922792279228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Punjab",
+        "LIST OF Collection Centers": "Government Medical College, Patiala, Punjab",
+        "Address": "Sangrur Rd, New Lal Bagh Colony, Patiala, Punjab 147001",
+        "Phone number": "0175 221 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4003300330033,
+          30.300990099009905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Punjab",
+        "LIST OF Collection Centers": "Government Medical College, Amritsar",
+        "Address": "Medical Enclave, Amritsar, Punjab 143001",
+        "Phone number": "0183 242 6918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.90120012001199,
+          31.700356035603562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Rajasthan",
+        "LIST OF Collection Centers": "Sawai Man Singh, Jaipur",
+        "Address": "2, Sawai Mansingh Rd, Dusadon Ka Bagh, Rambagh, Jaipur, Rajasthan 302007",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8001800180018,
+          26.901068106810683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Rajasthan",
+        "LIST OF Collection Centers": "Dr. S.N Medical College, Jodhpur",
+        "Address": "Residency Road, Near Sriram Excellency Hotel, Sector-D, Shastri Nagar, opposite Petrol Pump, Jodhpur, Rajasthan 342003",
+        "Phone number": "0291 243 4374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00114011401139,
+          26.299877987798784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Rajasthan",
+        "LIST OF Collection Centers": "Jhalawar Medical College, Jhalawar, Rajasthan",
+        "Address": "N.H.-12, Kota Rd, Jhalawar, Rajasthan 326001",
+        "Phone number": "07432 233 388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.20111011101109,
+          24.601196119611963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Rajasthan",
+        "LIST OF Collection Centers": "RNT Medical College, Udaipur",
+        "Address": "Court Chowk, City's Prime Health Care Area, Udaipur, Rajasthan 313001",
+        "Phone number": "0294 241 8258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.700900090009,
+          24.601196119611963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Rajasthan",
+        "LIST OF Collection Centers": "SP Med. College, Bikaner, Rajasthan",
+        "Address": "S.p.medical collage, PBM Hospital, Bikaner, Rajasthan 334001",
+        "Phone number": "0151 222 0115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.29996999699969,
+          28.001118111811184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Tamil Nadu",
+        "LIST OF Collection Centers": "King's Institute of Preventive Medicine & Research, Chennai",
+        "Address": "Guindy, Chennai, Tamil Nadu 600032",
+        "Phone number": "044 2250 1520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2004500450045,
+          12.99950595059506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Tamil Nadu",
+        "LIST OF Collection Centers": "Government Medical College, Theni",
+        "Address": "opp govt theni medical college, k. villakku, Tamil Nadu 625531",
+        "Phone number": "04546 244 502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.60063006300629,
+          10.0012301230123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Tamil Nadu",
+        "LIST OF Collection Centers": "Tirunelveli Medical College, Tirunelveli",
+        "Address": "3, High Ground Rd, Palayamkottai, Tirunelveli, Tamil Nadu 627011",
+        "Phone number": "0462 257 2733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7002400240024,
+          8.709310931093109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Tamil Nadu",
+        "LIST OF Collection Centers": "Govt. Medical college, Thiruvarur",
+        "Address": "Collector office Master Plan Complex, Collector Office Road, Thiruvarur, Tamil Nadu 610004",
+        "Phone number": "094432 82313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.600300030003,
+          10.79940594059406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Tripura",
+        "LIST OF Collection Centers": "Government Medical College, Agartala",
+        "Address": "79 Tilla, Agartala, Tripura 799006",
+        "Phone number": "0381 235 6701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1998799879988,
+          23.800462046204622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Telangana",
+        "LIST OF Collection Centers": "Gandhi Medical College, Secunderabad",
+        "Address": "Gandhi Hospital, Padmarao nagar, secunderabad, Secunderabad, Hyderabad, Telangana 500003",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4996099609961,
+          17.39970597059706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Telangana",
+        "LIST OF Collection Centers": "Osmania Medical College, Hyderabad",
+        "Address": "5-1-876, Turrebaz Khan Rd, Troop Bazaar, Koti, Hyderabad, Telangana 500095",
+        "Phone number": "040 2465 3992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4996099609961,
+          17.39970597059706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Uttar Pradesh",
+        "LIST OF Collection Centers": "King's George Medical University, Lucknow",
+        "Address": "Shah Mina Rd, Chowk, Lucknow, Uttar Pradesh 226003",
+        "Phone number": "0522 225 7540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9002100210021,
+          26.901068106810683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Uttar Pradesh",
+        "LIST OF Collection Centers": "Institute of Medical Sciences, Banaras Hindu University, Varanasi",
+        "Address": "Aurobindo Colony, Banaras Hindu University Campus, Varanasi, Uttar Pradesh 221005",
+        "Phone number": "0542 236 7568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.99948994899489,
+          25.299599959996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Uttar Pradesh",
+        "LIST OF Collection Centers": "Jawaharlal Nehru Medical College, Aligarh",
+        "Address": "Medical Rd, AMU Campus, Aligarh, Uttar Pradesh 202002",
+        "Phone number": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.10117011701169,
+          27.898787878787882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "Uttarakhand",
+        "LIST OF Collection Centers": "Government Medical College, Haldwani",
+        "Address": "Rampur Rd, Rampur, Haldwani, Uttarakhand 263129",
+        "Phone number": "05946 282 824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5006900690069,
+          29.200940094009404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "West Bengal",
+        "LIST OF Collection Centers": "National Institute of Cholera and Enteric Diseases, Kolkata",
+        "Address": "P- C.I.T. Scheme XM, Beleghata,, 33, CIT Rd, Subhas Sarobar Park, Phool Bagan, Beleghata, Kolkata, West Bengal 700010",
+        "Phone number": "033 2363 3373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4008400840084,
+          22.600640064006402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "West Bengal",
+        "LIST OF Collection Centers": "IPGMER, Kolkata",
+        "Address": "244, Acharya Jagadish Chandra Bose Rd, Bhowanipore, Kolkata, West Bengal 700020",
+        "Phone number": "033 2204 1101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3012301230123,
+          22.500868086808683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State/UT": "New Delhi",
+        "LIST OF Collection Centers": "National Centre of Disease Control, New Delhi",
+        "Address": "22, Sham Nath Marg, Civil Lines, New Delhi, Delhi 110054",
+        "Phone number": "011 2391 3148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1000900090009,
+          28.5997499749975
+        ]
+      }
+    }
+  ]
+}
